@@ -1,0 +1,1 @@
+apt install gstreamer1.0-x libgstreamer1.0-dev libgstreamer-plugins-base1.0-dev gstreamer1.0-plugins-bad libgstreamer-plugins-bad1.0-dev libsoup2.4-dev libjson-glib-dev libnice-dev autoconf libtool gtk-doc-tools libglib2.0-dev gstreamer1.0-nice libssl-dev libreadline-dev gstreamer1.0-plugins-ugly libsrtp0-dev libsrtp2-dev libsoup2.4-dev  libglew-dev libgl1-mesa-dev
